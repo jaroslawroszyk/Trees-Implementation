@@ -1,0 +1,5 @@
+                 69 (czarny)
+              /             \
+         48 (czerwony)    91 (czerwony)
+        /    \            /       \
+   32 (czarny)  57 (czarny)  83 (czarny)  105 (czarny)
